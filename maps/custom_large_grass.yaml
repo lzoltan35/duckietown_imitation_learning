@@ -1,0 +1,23 @@
+# A large map without intersections  which contains various
+# types of road parts to provide a wider range of different
+# situations the agent has to learn.
+
+tiles:
+- [grass, grass       , grass         , grass         , grass         , grass        , grass         , grass         , grass         , grass]
+- [grass, curve_left/W, straight/W    , curve_left/N  , grass         , curve_left/W , straight/W    , straight/W    , curve_left/N  , grass]
+- [grass, straight/S  , floor         , straight/N    , grass         , straight/S   , floor         , floor         , straight/N    , grass]
+- [grass, straight/S  , floor         , straight/N    , grass         , straight/S   , floor         , floor         , straight/N    , grass]
+- [grass, straight/S  , floor         , straight/N    , grass         , curve_left/S , curve_right/E , floor         , straight/N    , grass]
+- [grass, straight/S  , floor         , straight/N    , grass         , grass        , straight/S    , floor         , straight/N    , grass]
+- [grass, straight/S  , floor         , curve_right/W , curve_left/N  , grass        , straight/S    , floor         , straight/N    , grass]
+- [grass, straight/S  , floor         , floor         , straight/N    , grass        , straight/S    , floor         , straight/N    , grass]
+- [grass, curve_left/S, curve_right/E , floor         , straight/N    , grass        , straight/S    , floor         , straight/N    , grass]
+- [grass, grass       , straight/S    , floor         , straight/N    , grass        , straight/S    , floor         , straight/N    , grass]
+- [grass, grass       , straight/S    , floor         , curve_right/W , straight/W   , curve_right/S , floor         , straight/N    , grass]
+- [grass, curve_left/W, curve_right/S , floor         , floor         , floor        , floor         , floor         , straight/N    , grass]
+- [grass, straight/S  , floor         , floor         , curve_right/N , straight/E   , curve_right/E , floor         , straight/N    , grass]
+- [grass, straight/S  , floor         , curve_right/N , curve_left/E  , grass        , straight/S    , floor         , straight/N    , grass]
+- [grass, curve_left/S, straight/E    , curve_left/E  , grass         , grass        , curve_left/S  , straight/E    , curve_left/E  , grass]
+- [grass, grass       , grass         , grass         , grass         , grass        , grass         , grass         , grass         , grass]
+
+tile_size: 0.585
