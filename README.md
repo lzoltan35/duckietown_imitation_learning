@@ -2,7 +2,7 @@
 
 This repository contains the source code of our paper:
 
-| <a href="https://openreview.net/forum?id=rE3OCN6Vk-c"><img src="media/paper_preview_image.jpg" width="200"/></a> | [*Imitation Learning for Generalizable Self-driving Policy with Sim-to-real Transfer*](https://arxiv.org/abs/2206.10797) <br/>Zoltán Lőrincz, Márton Szemenyei, Robert Moni <br/>ICLR 2022 Workshop on Generalizable Policy Learning in Physical World|
+| <a href="https://arxiv.org/abs/2206.10797"><img src="media/paper_preview_image.jpg" width="200"/></a> | [*Imitation Learning for Generalizable Self-driving Policy with Sim-to-real Transfer*](https://arxiv.org/abs/2206.10797) <br/>Zoltán Lőrincz, Márton Szemenyei, Robert Moni <br/>ICLR 2022 Workshop on Generalizable Policy Learning in Physical World|
 | ------ | ------ |
 
 
